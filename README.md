@@ -1,1 +1,3 @@
 # stringutil
+
+Reverse function. 
